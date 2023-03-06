@@ -20,5 +20,11 @@ const config = {
     locales: ["en"],
     defaultLocale: "en",
   },
+  images: {
+    domains: ["lh3.googleusercontent.com"],
+  },
+  daisyui: {
+    themes: ["light", "dark", "corporate"],
+  },
 };
 export default config;
